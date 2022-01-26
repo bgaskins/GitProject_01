@@ -1,7 +1,13 @@
 // This is the start of project 01. 
 
+<<<<<<< HEAD
 // This is for FeatureBranch 2's first commit. 
 
 // second commit. 
 
 // third commit. 
+=======
+// This is for the 1st commit in FeatureBranch1.
+
+// This is for the 2nd commit in FeatureBranch2.
+>>>>>>> a2a502d (Added some text for branchingmodel.txt for FB1's second commit)

@@ -18,3 +18,9 @@
 
 // Adding text for FeatureBranch1.
 >>>>>>> e6c04ab (Added more text to branchingmodel.txt)
+<<<<<<< HEAD
+=======
+>>>>>>> 32df323 (Merging FB1's 4th commit)
+
+// Just adding more text here. 
+>>>>>>> c6ed8cf (Additional text added to branchingmodel.txt for HotFix commit)

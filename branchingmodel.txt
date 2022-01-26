@@ -10,4 +10,11 @@
 // This is for the 1st commit in FeatureBranch1.
 
 // This is for the 2nd commit in FeatureBranch2.
+<<<<<<< HEAD
 >>>>>>> a2a502d (Added some text for branchingmodel.txt for FB1's second commit)
+=======
+
+// This is for the 3rd commit in FeatureBranch3.
+
+// Adding text for FeatureBranch1.
+>>>>>>> e6c04ab (Added more text to branchingmodel.txt)

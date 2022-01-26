@@ -24,3 +24,5 @@
 // Adding text for FeatureBranch1.
 >>>>>>> e6c04ab (Added more text to branchingmodel.txt)
 >>>>>>> 32df323 (Merging FB1's 4th commit)
+
+// Just adding more text here. 
